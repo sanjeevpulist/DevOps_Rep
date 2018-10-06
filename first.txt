@@ -2,3 +2,4 @@
 first file
 adding new line
 we are adding this from master to create a conflict
+Adding new line through GitHub
